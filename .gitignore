@@ -1,2 +1,4 @@
 *.[oa]
 *.~
+myenv
+__pycache__
