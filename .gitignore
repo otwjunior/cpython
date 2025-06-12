@@ -1,4 +1,6 @@
 *.[oa]
 *.~
-myenv
-__pycache__
+myenv/
+__pycache__/
+.*__pyc
+.env
